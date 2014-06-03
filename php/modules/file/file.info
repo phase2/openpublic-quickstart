@@ -1,0 +1,14 @@
+name = File
+description = Defines a file field type.
+package = Core
+version = VERSION
+core = 7.x
+dependencies[] = field
+files[] = tests/file.test
+
+
+; Information added by drush on 2014-05-29
+version = "master-dev"
+project = "drupal"
+datestamp = "1401388888"
+
