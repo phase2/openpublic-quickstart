@@ -1,0 +1,16 @@
+; $Id$
+name = Pantheon Login
+description = Allows users to log in as user #1 from their Pantheon Control Panel
+package = Pantheon
+dependencies[] = pantheon_api
+version = "7.x-1.0"
+hidden = TRUE
+core = 7.x
+php = 5.2
+
+
+; Information added by drush on 2014-05-29
+version = "master-dev"
+project = "drupal"
+datestamp = "1401388888"
+

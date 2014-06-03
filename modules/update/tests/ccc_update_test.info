@@ -1,0 +1,12 @@
+name = CCC Update test
+description = Support module for update module testing.
+package = Testing
+core = 7.x
+hidden = TRUE
+
+
+; Information added by drush on 2014-05-29
+version = "master-dev"
+project = "drupal"
+datestamp = "1401388888"
+

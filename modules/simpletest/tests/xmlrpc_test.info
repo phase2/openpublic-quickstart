@@ -1,0 +1,13 @@
+name = "XML-RPC Test"
+description = "Support module for XML-RPC tests according to the validator1 specification."
+package = Testing
+version = VERSION
+core = 7.x
+hidden = TRUE
+
+
+; Information added by drush on 2014-05-29
+version = "master-dev"
+project = "drupal"
+datestamp = "1401388888"
+
